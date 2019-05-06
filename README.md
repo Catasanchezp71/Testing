@@ -3,7 +3,7 @@
 Test the folder for Data Analysis class of Catalina Sanchez 
 
 ---
-## Contibrutors
+## Contibutors
 
 - Catalina Sanchez Posada <catalina2018mgap@palmuc.org>
 
