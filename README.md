@@ -1,6 +1,6 @@
 # Testing
 
-Test the folder for Data Analysis class of Catalina Sanchez 
+Test the folder for Data Analysis class from Catalina Sanchez 
 
 ---
 ## Contibutors
